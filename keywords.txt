@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For IOardu
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+IOardu		KEYWORD1
+Input		KEYWORD1
+Output		KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+on		KEYWORD2
+off		KEYWORD2
+blink		KEYWORD2
+read	 	KEYWORD2
+readAN		KEYWORD2
+onAN		KEYWORD2
+fadeIn		KEYWORD2
+fadeOut		KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+
