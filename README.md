@@ -1,2 +1,2 @@
 # IOardu
-easy arduino library,easier way of basic commands for clean and easy to understand code
+easy arduino library, basic commands with easier way for clean and understandable code
